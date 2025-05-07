@@ -1,10 +1,14 @@
 # 🎬 Twitch No Overlay Extension 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Twitch](https://img.shields.io/badge/-Twitch-9146FF?logo=twitch&style=flat)](https://twitch.tv)
 [![Chrome Extension](https://img.shields.io/badge/-Chrome_Extension-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://chrome.google.com/webstore/detail/)
 [![GitHub Stars](https://img.shields.io/github/stars/Thayorns/twitch-css-modifier?style=social)](https://github.com/Thayorns/twitch-css-modifier)
 
 Browser extension that removes annoying dark overlay and other UI elements from Twitch streams for better viewing experience.
+
+## 🔖 Tags  
+`twitch` `chrome-extension` `css` `customization` `open-source`
 
 ## ✨ Features
 
