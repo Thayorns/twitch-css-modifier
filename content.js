@@ -1,7 +1,7 @@
 function applyStyles() {
-    const overlayElements = document.querySelectorAll('.eSKEhN, .player-overlay-background--darkness-3');
+    const overlayElements = document.querySelectorAll('.bmlSdB, .player-overlay-background--darkness-3');
     overlayElements.forEach(el => {
-      if (el.classList.contains('eSKEhN')) {
+      if (el.classList.contains('bmlSdB')) {
         el.style.display = 'none';
       } else if (el.classList.contains('player-overlay-background--darkness-3')) {
         el.style.background = 'none';
