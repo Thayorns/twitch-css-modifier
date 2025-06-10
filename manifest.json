@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Twitch CSS Modifier",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Disables background & overlay on Twitch",
     "icons": {
       "128": "twitch.png"
