@@ -13,7 +13,7 @@ Browser extension that removes annoying dark overlay and other UI elements from 
 ## ✨ Features
 
 - 🚫 Removes dark overlay (`player-overlay-background--darkness-3`)
-- 👁️ Hides specific overlay elements (`.eSKEhN`)
+- 👁️ Hides specific overlay elements (`.bmlSdB`)
 - 🔄 Works automatically on all Twitch streams
 - ⚡ Lightweight (no performance impact)
 - 🔒 No tracking or data collection
