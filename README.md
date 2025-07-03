@@ -37,13 +37,6 @@ Browser extension that removes annoying dark overlay and other UI elements from 
    - Click "Load unpacked"
    - Select the extracted folder
 
-## 🤝 Contributing
-
-Pull requests are welcome! If you find Twitch has changed class names, please:
-
-1. 🐛 Open an issue
-2. 💻 Or submit a PR with updated class names
-
 ## 📜 License
 
 MIT
